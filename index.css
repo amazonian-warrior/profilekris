@@ -1,0 +1,31 @@
+
+.aboutme {
+border-style: solid;
+border-color: red;
+width: 24%;
+
+}
+
+.favortitwebs {
+
+border-style: groove;
+border-color: red;
+width: 24%;
+
+}
+
+.button {
+
+border-style: groove;
+border-color: red;
+width: 24%;
+
+}
+
+.momQuote {
+
+border-style: inset;
+border-color: #FF69B4;
+width: 50%;
+
+}
